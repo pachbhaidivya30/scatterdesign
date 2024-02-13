@@ -1,0 +1,27 @@
+{
+  "name": "scatterdesign",
+  "version": "1.0.0",
+  "description": "This is scatter plot design",
+  "main": "src/index.js",
+  "files": ["src/ScatterPlotChart.css",
+            "src/ScatterPlotChart.jsx",
+            "src/index.js"
+
+],  
+  
+  "scripts": {
+    "build": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pachbhaidivya30/scatterdesign.git"
+  },
+  "keywords": ["scatterdesign"],
+  "author": "Divya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pachbhaidivya30/scatterdesign/issues"
+  },
+  "homepage": "https://github.com/pachbhaidivya30/scatterdesign#readme"
+}
